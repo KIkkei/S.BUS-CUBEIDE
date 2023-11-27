@@ -1,2 +1,3 @@
 # S.BUS-CUBEIDE
-Kibelaの記事読んだらだいたいわかると思うのでよろ
+S.BUS通信をCUBEIDE上で行うためのライブラリです。
+Kibelaの記事も製作中です。
